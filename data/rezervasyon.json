@@ -1,0 +1,35 @@
+[
+  {
+    "id": "641547db-c5bc-45ac-9d84-98ebcb24e671",
+    "name": "arer",
+    "email": "ebru@gmail.com",
+    "phone": "5363177100",
+    "date": "2024-12-18",
+    "time": "21:00",
+    "guests": "5-6",
+    "message": "qweqweqwe",
+    "createdAt": "2024-12-15T12:13:00.186Z"
+  },
+  {
+    "id": "85ce598c-a37f-4c7b-b195-055fa47a1551",
+    "name": "halil",
+    "email": "cerit3256@gmail.com",
+    "phone": "5363177100",
+    "date": "2024-12-27",
+    "time": "18:00",
+    "guests": "5-6",
+    "message": "qweqweqwe",
+    "createdAt": "2024-12-15T12:20:19.475Z"
+  },
+  {
+    "id": "191920fe-55fc-4136-8bef-10828d1d61ef",
+    "name": "deneme admin",
+    "email": "hasdkjasd@gmail.com",
+    "phone": "123123123213",
+    "date": "2024-12-19",
+    "time": "18:30",
+    "guests": "7-8",
+    "message": "qweqweqwe",
+    "createdAt": "2024-12-15T12:21:12.030Z"
+  }
+]
